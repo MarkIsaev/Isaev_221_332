@@ -3,7 +3,7 @@
 
 #### Команда для клонирования репозитория:
 
-###### git clone https://github.com/MarkIsaev/Isaev_221_332_exam.git
+###### git clone https://github.com/MarkIsaev/Isaev_221_332.git
 
 
 #### Загрузка в репозиторий файлов:
@@ -19,7 +19,7 @@
 
 ###### git checkout -b 221_332_Isaev
 
-###### git push https://github.com/MarkIsaev/Isaev_221_332_exam.git 221_332_Isaev
+###### git push https://github.com/MarkIsaev/Isaev_221_332.git 221_332_Isaev
 
 
 #### Слияние с веткой main:
